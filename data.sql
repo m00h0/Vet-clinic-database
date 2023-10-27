@@ -13,3 +13,4 @@ INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_
 (9, 'Boarmon', 'Jun 7 2005', '7', 'True', '20.4'),
 (10, 'Blossom', 'Oct 13 1998', '3', 'True', '17'),
 (11, 'Ditto', 'May 14 2022', '4', 'True', '22');
+
