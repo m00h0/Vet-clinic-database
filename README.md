@@ -71,6 +71,12 @@ Clone this repository to your desired folder:
 - GitHub: [@Ahmed](https://github.com/newtonah0)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+👤 **Mohammad Yaser**
+
+- GitHub: [@githubhandle](https://github.com/MohammadYaser)
+- Twitter: [@twitterhandle](https://twitter.com/Yaser_Safi19)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-yaser-safi-a12083270)
+
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
 
