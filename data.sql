@@ -76,3 +76,9 @@ INSERT INTO visits (animal_id, vet_id, date_of_visit) VALUES
 	('10', '3', 'May 24 2020'),
 	('10', '1', 'Jan 11 2021');
 
+EXPLAIN ANALYZE
+SELECT COUNT(*) FROM visits where animal_id = 4;
+EXPLAIN ANALYZE
+SELECT * FROM visits where vet_id = 2;
+EXPLAIN ANALYZE
+SELECT * FROM owners where email = 'owner_18327@mail.com';
