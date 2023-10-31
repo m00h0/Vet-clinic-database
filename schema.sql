@@ -71,7 +71,15 @@ CREATE TABLE specializations (
 );
 
 CREATE TABLE visits (
+     id serial PRIMARY KEY,
     animal_id INT REFERENCES animals(id),
     vet_id INT REFERENCES vets(id),
     date_of_visit DATE
 );
+
+ALTER TABLE owners
+ADD COLUMN email VARCHAR(120);
+ 
+CREATE INDEX visits_animal_id ON visits(animal_id ASC);
+CREATE INDEX visits_vet_id ON visits(vet_id);
+CREATE INDEX owners_email ON owners(email);
