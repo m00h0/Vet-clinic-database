@@ -61,7 +61,7 @@ Install postgresql
 
 Clone this repository to your desired folder:
 
-  git clone git@https://github.com/newtonah0/Vet-clinic-database.git
+  git clone git@https://github.com/m00h0/Vet-clinic-database.git
 
 <!-- AUTHORS -->
 
