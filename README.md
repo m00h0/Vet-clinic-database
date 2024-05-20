@@ -68,7 +68,7 @@ Clone this repository to your desired folder:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Ahmed**
-- GitHub: [@Ahmed](https://github.com/newtonah0)
+- GitHub: [@Ahmed](https://github.com/m00h0)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 👤 **Mohammad Yaser**
